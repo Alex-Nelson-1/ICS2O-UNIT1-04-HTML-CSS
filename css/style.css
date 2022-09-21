@@ -1,0 +1,19 @@
+
+body {
+  background-color: #eebc77;
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 30;
+  color: #f9aa01;
+  background-color: #47ee44;
+  text-align: center;
+}
+
+p {
+  background-color: #47ee44;
+  color: #f9aa01;
+  font-family: Verdana;
+  text-align: center
+}
