@@ -12,10 +12,10 @@ p {
   background-color: #47ee44;
   color: #f9aa01;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  text-align: center
+  text-align: center;
 }
 ul {
-  color: #47e
+  color: #47e;
 }
 ul li::before {
   content: "(:  ";
