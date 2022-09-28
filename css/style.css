@@ -21,14 +21,6 @@ ul {
   color: #47e;
 }
 
-ul li::before {
-  content: "(:  ";
-}
-
-ul li::after {
-  content: "  :)";
-}
-
 th {
   background: #47ee44;
   height: 2rem;
